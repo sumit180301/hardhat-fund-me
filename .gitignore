@@ -1,0 +1,25 @@
+.encryptedKey.json
+node_modules
+.env
+coverage
+coverage.json
+typechain
+rinkebyDataFeedSol.txt
+
+#Hardhat files
+cache
+artifacts
+.DS_Store
+gas-report.txt
+deployments
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+
